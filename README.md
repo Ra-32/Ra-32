@@ -24,6 +24,14 @@ AI Engineer • Machine Learning • Generative AI • Full Stack Developer
 # 💫 About Me
 
 ```text
+ ____        _____ ___
+|  _ \ __ _ |___ /|_  )
+| |_) / _` |  |_ \ / /
+|  _ < (_| | ___) / /_
+|_| \_\__,_||____/____|
+
+
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║ 👨 Name       : Rahul Ramkishan Kapade                  ║
 ║ 🎓 Degree     : B.Tech Computer Engineering             ║
